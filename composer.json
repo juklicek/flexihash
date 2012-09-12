@@ -1,0 +1,21 @@
+{
+    "name": "pda/flexihash",
+    "type": "library",
+    "description": "Flexihash is a small PHP library which implements consistent hashing.",
+    "license": "MIT",
+    "homepage": "https://github.com/pda/flexihash",
+    "authors": [
+        {
+		"name": "Paul Annesley",
+		"email": "paul@paul.annesley.cc",
+		"homepage": "http://paul.annesley.cc/",
+		"role": "Developer"
+	}
+    ],
+    "require": {
+
+    }
+    "autoload": {
+        "psr-0": {"Flexihash": "classes/"}
+    }
+}
